@@ -1,0 +1,40 @@
+.main{
+    background-color: black;
+    border: 2.5px solid rgba(35, 142, 212, 0.904);
+    text-align: center;
+    height: 400px;
+}
+h1{
+color: white;
+text-align: center;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p{
+    color: rgb(223, 183, 110);
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: -15px;
+}
+a{
+    color: white;
+}
+.inline{
+    display: inline-flex;
+    color: white;
+    padding: 10px;
+    margin-left: 50px;
+}
+.Strategy{
+    background-color: rgba(128, 128, 128, 0.274);
+    padding: 10px;
+    padding-left: 13px;
+    text-align: left;
+    border-radius: 3px;
+    margin-right: 15px;
+    height: 23px;
+    width: 200px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.arrow{
+   margin: 30px;
+}
